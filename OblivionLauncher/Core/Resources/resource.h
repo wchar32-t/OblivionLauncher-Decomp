@@ -1,0 +1,93 @@
+﻿#pragma once
+
+#define IDB_BITMAP257        257
+#define IDB_BITMAP259        259
+#define IDB_BITMAP260        260
+#define IDB_BITMAP261        261
+#define IDB_BITMAP262        262
+#define IDB_BITMAP263        263
+#define IDB_BITMAP264        264
+#define IDB_BITMAP265        265
+#define IDB_BITMAP266        266
+#define IDB_BITMAP267        267
+#define IDB_BITMAP268        268
+#define IDB_BITMAP270        270
+#define IDB_BITMAP271        271
+#define IDB_BITMAP272        272
+#define IDB_BITMAP273        273
+#define IDB_BITMAP274        274
+#define IDB_BITMAP275        275
+#define IDB_BITMAP276        276
+#define IDB_BITMAP277        277
+#define IDB_BITMAP278        278
+#define IDB_BITMAP279        279
+#define IDB_BITMAP280        280
+
+#define IDD_MAIN_DIALOG          102
+#define IDD_TECH_SUPPORT_DIALOG  160
+#define IDD_DATAFILES_DIALOG     224
+#define IDD_OPTIONS_DIALOG       255
+
+#define IDC_BITMAP_CONTROL_257       257
+#define IDC_BITMAP_CONTROL_230       230
+#define IDC_BITMAP_CONTROL_PLUGINSU  1020
+#define IDC_BITMAP_CONTROL_OPTIONSU  1021
+#define IDC_BITMAP_CONTROL_ELDERWEBU 1022
+#define IDC_BITMAP_CONTROL_SUPPORTU  1024
+#define IDC_BITMAP_CONTROL_UNINSTALLU 1018
+#define IDC_BITMAP_CONTROL_CANCELU   1025
+
+#define IDC_BUTTON_OK                1
+#define IDC_BUTTON_DIRECTX_DIAG      1039
+#define IDC_TAB_CONTROL              1028
+#define IDC_EDIT_CONTROL_1036        1036
+#define IDC_EDIT_CONTROL_1037        1037
+#define IDC_EDIT_CONTROL_1038        1038
+#define IDC_EDIT_CONTROL_1040        1040
+#define IDC_EDIT_CONTROL_1041        1041
+#define IDC_BUTTON_OPEN_NOTEPAD      1030
+
+#define IDC_BUTTON_OK_DATAFILES      1035
+#define IDC_BUTTON_RESET_DEFAULTS    1029
+#define IDC_STATIC_1038              1038
+#define IDC_STATIC_1039              1039
+#define IDC_STATIC_1037              1037
+#define IDC_STATIC_1040              1040
+#define IDC_STATIC_1041              1041
+#define IDC_STATIC_DATAFILES         1001
+#define IDC_TREEVIEW_DATAFILES       1001
+#define IDC_BUTTON_CANCEL_DATAFILES  2
+
+#define IDC_BUTTON_CANCEL_OPTIONS    2
+#define IDC_BUTTON_OK_OPTIONS        1035
+#define IDC_GROUP_SCREEN_EFFECTS     1077
+#define IDC_STATIC_ADAPTER           1072
+#define IDC_COMBO_ADAPTER            1056
+#define IDC_STATIC_RESOLUTION        1073
+#define IDC_COMBO_RESOLUTION         1057
+#define IDC_GROUP_MODE               1076
+#define IDC_BUTTON_RESET_TO_DEFAULTS 1062
+#define IDC_STATIC_ANTIALIASING      1074
+#define IDC_COMBO_ANTIALIASING       1064
+#define IDC_GROUP_GRAPHICS_ADAPTER   1071
+#define IDC_RADIO_NONE               1065
+#define IDC_RADIO_BLOOM              1066
+#define IDC_RADIO_HDR                1067
+#define IDC_GROUP_DISTANT_RENDERING  1078
+#define IDC_CHECK_DISTANT_LANDSCAPE  1068
+#define IDC_CHECK_DISTANT_BUILDINGS  1069
+#define IDC_CHECK_DISTANT_TREES      1070
+#define IDC_RADIO_WINDOWED           1058
+#define IDC_RADIO_FULLSCREEN         1059
+#define IDC_CHECK_VSYNC              1079
+
+#define IDI_ICON5       5
+#define IDI_ICON133     133
+#define IDI_ICON134     134
+#define IDI_ICON135     135
+#define IDI_ICON136     136
+#define IDI_ICON137     137
+#define IDI_ICON138     138
+#define IDI_ICON228     228
+
+#define IDR_VERSIONINFO 1
